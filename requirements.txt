@@ -29,8 +29,10 @@ debugpy @ file:///D:/bld/debugpy_1649586515543/work
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
 deepface==0.0.75
 defusedxml @ file:///home/conda/feedstock_root/build_artifacts/defusedxml_1615232257335/work
+dj-database-url==0.5.0
 Django==4.0.5
 django-filter==22.1
+django-heroku==0.3.1
 djangorestframework==3.13.1
 entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643888246732/work
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1646044401614/work
@@ -98,6 +100,7 @@ prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus
 prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1649130487073/work
 protobuf==3.17.2
 psutil @ file:///D:/bld/psutil_1653089392436/work
+psycopg2==2.9.3
 pure-eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1642875951954/work
 pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
 pyasn1-modules==0.2.8
@@ -154,6 +157,7 @@ urllib3 @ file:///C:/ci/urllib3_1650639883891/work
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
 webencodings==0.5.1
 Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
+whitenoise==6.2.0
 win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
 wincertstore==0.2
 wrapt @ file:///C:/ci/wrapt_1638434068867/work
