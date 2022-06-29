@@ -1,21 +1,10 @@
-aiohttp @ file:///C:/ci/aiohttp_1646806572557/work
-aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
-argon2-cffi-bindings @ file:///D:/bld/argon2-cffi-bindings_1649500515836/work
 asgiref==3.5.2
 astor==0.8.1
 astunparse==1.6.3
-async-timeout @ file:///tmp/build/80754af9/async-timeout_1637851218186/work
 blinker==1.4
 brotlipy==0.7.0
-cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
 certifi==2022.5.18.1
-cffi @ file:///C:/ci_310/cffi_1642682485096/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 clang==5.0
-click @ file:///C:/ci/click_1646038595831/work
-colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
-cryptography @ file:///C:/ci/cryptography_1633520531101/work
-debugpy @ file:///D:/bld/debugpy_1649586515543/work
 deepface==0.0.75
 dj-database-url==0.5.0
 Django==4.0.5
@@ -26,90 +15,38 @@ filelock==3.7.1
 fire==0.4.0
 Flask==2.1.2
 flatbuffers==1.12
-fonttools @ file:///D:/bld/fonttools_1651018206941/work
-frozenlist @ file:///C:/ci/frozenlist_1637767271796/work
 gdown==4.5.1
 google-auth==1.35.0
 google-auth-oauthlib==0.4.1
 graphviz==0.20
-grpcio @ file:///C:/ci/grpcio_1637590978642/work
-h5py @ file:///C:/ci/h5py_1637120894255/work
-idna @ file:///tmp/build/80754af9/idna_1637925883363/work
-importlib-metadata @ file:///C:/ci/importlib-metadata_1648562621412/work
-ipykernel @ file:///D:/bld/ipykernel_1655369313836/work
-ipython @ file:///D:/bld/ipython_1653755080319/work
 ipython-genutils==0.2.0
 itsdangerous==2.1.2
-jedi @ file:///D:/bld/jedi_1649067332918/work
 joblib==1.1.0
-jupyter-core @ file:///D:/bld/jupyter_core_1652365569005/work
-keras @ file:///tmp/build/80754af9/keras_split_1633447633673/work/keras-2.6.0-py2.py3-none-any.whl
-Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
-kiwisolver @ file:///D:/bld/kiwisolver_1655141708805/work
-Markdown @ file:///C:/ci/markdown_1614364082838/work
-MarkupSafe @ file:///D:/bld/markupsafe_1648737757460/work
-matplotlib @ file:///D:/bld/matplotlib-suite_1651609646819/work
-mistune @ file:///D:/bld/mistune_1635844891406/work
 mkl-fft==1.3.1
-mkl-random @ file:///C:/ci/mkl_random_1626186184308/work
 mkl-service==2.4.0
 mtcnn==0.1.1
-multidict @ file:///C:/ci/multidict_1607349747897/work
 munkres==1.1.4
-numpy @ file:///C:/ci/numpy_and_numpy_base_1652784039997/work
 opencv-contrib-python==4.6.0.66
 opencv-python==4.6.0.66
-opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
 pandas==1.4.2
 Pillow==9.1.1
 protobuf==3.17.2
-psutil @ file:///D:/bld/psutil_1653089392436/work
 psycopg2==2.9.3
 pyasn1-modules==0.2.8
-pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1636635402688/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pydot==1.4.2
-PyJWT @ file:///C:/ci/pyjwt_1619682721924/work
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
 PyQt5==5.12.3
 PyQt5_sip==4.19.18
 PyQtChart==5.12
 PyQtWebEngine==5.12.1
 pyreadline==2.1
-pyrsistent @ file:///D:/bld/pyrsistent_1649013531721/work
-PySocks @ file:///C:/ci/pysocks_1605307512533/work
 pytz==2022.1
 pywin32==303
-pywinpty @ file:///C:/ci_310/pywinpty_1644230983541/work/target/wheels/pywinpty-2.0.2-cp39-none-win_amd64.whl
-pyzmq @ file:///D:/bld/pyzmq_1654181530121/work
 requests-oauthlib==1.3.0
 retina-face==0.0.12
-rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
 scikit-learn==1.1.1
 scikit-plot==0.3.7
-scipy @ file:///C:/ci/scipy_1641555170412/work
 seaborn==0.11.2
-six @ file:///tmp/build/80754af9/six_1644875935023/work
 sklearn==0.0
 sqlparse==0.4.2
-tensorboard @ file:///tmp/build/80754af9/tensorboard_1633093581375/work/tensorboard-2.6.0-py3-none-any.whl
-tensorboard-data-server @ file:///C:/ci/tensorboard-data-server_1633035225228/work/tensorboard_data_server-0.6.0-py3-none-any.whl
 tensorboard-plugin-wit==1.6.0
 tensorflow==2.6.0
-tensorflow-estimator @ file:///home/builder/adipietro/tf/tensorflow-estimator_1630508970172/work/tensorflow_estimator-2.6.0-py2.py3-none-any.whl
-termcolor==1.1.0
-terminado @ file:///D:/bld/terminado_1652790835377/work
-threadpoolctl==3.1.0
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
-tornado @ file:///D:/bld/tornado_1648827405403/work
-tqdm==4.64.0
-tzdata==2022.1
-unicodedata2 @ file:///D:/bld/unicodedata2_1649112114189/work
-urllib3 @ file:///C:/ci/urllib3_1650639883891/work
-webencodings==0.5.1
-whitenoise==6.2.0
-win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
-wincertstore==0.2
-wrapt @ file:///C:/ci/wrapt_1638434068867/work
-yarl @ file:///C:/ci/yarl_1606940155993/work
-zipp @ file:///C:/ci/zipp_1652273994994/work
